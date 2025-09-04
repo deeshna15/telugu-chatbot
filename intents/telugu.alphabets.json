@@ -1,0 +1,65 @@
+{
+  "id": "320b1938-b965-447d-a475-c3353237d029",
+  "name": "telugu.alphabets",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "తెలుగు అక్షరమాలలో అచ్చులు (vowels) మరియు హల్లులు (consonants) ఉంటాయి."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "తెలుగు అక్షరమాలలో అచ్చులు (vowels) మరియు హల్లులు (consonants) ఉంటాయి."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "Telugu consonants, known as **హల్లులు** (hallulu), are a fundamental part of the Telugu alphabet, or **వర్ణమాల** (varnamala). The consonants are organized into a logical system based on the sound they produce and where the sound originates in the mouth.\n\nHere is a complete list of all Telugu consonants:\n\n### Hard Consonants (వర్గీయ హల్లులు)\nThese are organized into five groups (**వర్గాలు**, vargālu) based on the place of articulation.\n\n1.  **Gutturals (కంఠ్యాలు)** - Sounds from the throat:\n    * `క` (ka)\n    * `ఖ` (kha)\n    * `గ` (ga)\n    * `ఘ` (gha)\n    * `ఙ` (ṅa)\n\n2.  **Palatals (తాలవ్యాలు)** - Sounds from the palate:\n    * `చ` (ca)\n    * `ఛ` (cha)\n    * `జ` (ja)\n    * `ఝ` (jha)\n    * `ఞ` (ña)\n\n3.  **Retroflexes (మూర్ధన్యాలు)** - Sounds from the tip of the tongue curled back:\n    * `ట` (ṭa)\n    * `ఠ` (ṭha)\n    * `డ` (ḍa)\n    * `ఢ` (ḍha)\n    * `ణ` (ṇa)\n\n4.  **Dentals (దంత్యాలు)** - Sounds from the teeth:\n    * `త` (ta)\n    * `థ` (tha)\n    * `ద` (da)\n    * `ధ` (dha)\n    * `న` (na)\n\n5.  **Labials (ఓష్ఠ్యాలు)** - Sounds from the lips:\n    * `ప` (pa)\n    * `ఫ` (pha)\n    * `బ` (ba)\n    * `భ` (bha)\n    * `మ` (ma)\n\n### Soft Consonants (అవర్గీయ హల్లులు)\nThese are not categorized by the place of articulation in the same way as the hard consonants.\n\n* `య` (ya)\n* `ర` (ra)\n* `ల` (la)\n* `వ` (va)\n* `శ` (śa)\n* `ష` (ṣa)\n* `స` (sa)\n* `హ` (ha)\n* `ళ` (ḷa)\n* `క్ష` (kṣa)\n* `ఱ` (ra)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మీరు అచ్చులు లేదా హల్లుల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

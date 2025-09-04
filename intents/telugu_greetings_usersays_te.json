@@ -1,0 +1,171 @@
+[
+  {
+    "id": "6f28c444-139b-408a-b1fa-e1ba2274b460",
+    "data": [
+      {
+        "text": "బాగున్నారా?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "3d07a973-952a-4df9-a2a0-3aabc3e8e566",
+    "data": [
+      {
+        "text": "అంతా బాగుందా?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "ad5a53c3-3d26-49bf-b5c8-14fd63626ff2",
+    "data": [
+      {
+        "text": "నువ్వు ఎలా ఉన్నావు?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "e0dd50a3-a356-4d51-8b88-8a0cd4d7cbac",
+    "data": [
+      {
+        "text": "మీరు ఎలా ఉన్నారు?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "3104f6e1-2647-429e-9a07-be6db2949d79",
+    "data": [
+      {
+        "text": "శుభ రాత్రి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "e88891fa-0e12-4351-9c1d-ab14405352c3",
+    "data": [
+      {
+        "text": "శుభ సాయంత్రం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "94bff6e1-c86b-469a-9143-79ada385e16a",
+    "data": [
+      {
+        "text": "శుభ మధ్యాహ్నం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "03edeefa-fdb3-45e9-b08c-d527f0489640",
+    "data": [
+      {
+        "text": "శుభోదయం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "198518b9-c240-4af0-9c06-b5517e1b7c59",
+    "data": [
+      {
+        "text": "హాయ్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "6d511cc4-680e-4a17-99f6-06295795b5c7",
+    "data": [
+      {
+        "text": "హలో",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "e1820877-74c8-4a39-9d57-a5810593fd35",
+    "data": [
+      {
+        "text": "వందనాలు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "664bd872-9ce6-4b63-aa9d-3314e359a968",
+    "data": [
+      {
+        "text": "నమస్తే",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "c029835c-2c8a-443d-86e0-bba8471d6bec",
+    "data": [
+      {
+        "text": "నమస్కారం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

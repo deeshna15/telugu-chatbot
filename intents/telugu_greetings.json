@@ -1,0 +1,85 @@
+{
+  "id": "af7c6339-4d0b-4c0f-854d-3a386ae6aad6",
+  "name": "telugu_greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "నమస్కారం! నేను ఒక తెలుగు నేర్చుకునే బాట్."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "హాయ్! మీకు నేను ఎలా సహాయపడగలను?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మీకు స్వాగతం! తెలుగు నేర్చుకోవడం మొదలుపెడదామా?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "నేను బాగానే ఉన్నాను."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "చాలా సంతోషంగా ఉంది"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మీకు స్వాగతం!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

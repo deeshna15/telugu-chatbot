@@ -1,0 +1,35 @@
+{
+  "id": "e08e3a4d-c910-4f7c-9569-1022845866b9",
+  "name": "telugu.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "నేను తెలుగు అక్షరాలు, సంఖ్యలు, పండ్లు, జంతువులు, రంగులు మరియు మరిన్ని నేర్పిస్తాను"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

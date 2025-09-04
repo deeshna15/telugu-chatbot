@@ -1,0 +1,44 @@
+{
+  "id": "b00d64c1-5a8b-479c-a080-8eabb0212b53",
+  "name": "telugu.numbers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "ఒకటి - 1",
+            "రెండు - 2",
+            "మూడు - 3",
+            "నాలుగు - 4",
+            "ఐదు - 5",
+            "ఆరు - 6",
+            "ఏడు - 7",
+            "ఎనిమిది - 8",
+            "తొమ్మిది - 9",
+            "పది - 10"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

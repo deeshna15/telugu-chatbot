@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ddf38cf1-75c5-45b6-a316-3835916f918c",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "ba9755ff-d5fb-4603-95fd-9c930e2c6632",
+    "data": [
+      {
+        "text": "What is your name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "7f6678db-cb66-4429-b6b6-44a963a954be",
+    "data": [
+      {
+        "text": "నీ పేరు ఏమిటి?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "c903ba85-c24d-4fdc-bfd9-5e2fe49e9598",
+    "data": [
+      {
+        "text": "మీరు ఎవరు?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "54ef051e-ea19-4ce1-8aa8-58869aa7c60c",
+    "data": [
+      {
+        "text": "hello who are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

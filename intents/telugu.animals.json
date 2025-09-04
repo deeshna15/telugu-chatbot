@@ -1,0 +1,65 @@
+{
+  "id": "4e4e176b-a38b-4c0c-827b-93be376c665b",
+  "name": "telugu.animals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "తెలుగులో కొన్ని జంతువుల పేర్లు: పులి (tiger), సింహం (lion), ఏనుగు (elephant), కుక్క (dog), పిల్లి (cat)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మరికొన్ని జంతువుల పేర్లు: ఎద్దు (ox), ఆవు (cow), గొర్రె (sheep), గుర్రం (horse), నక్క (fox)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "జంతువులు మనకు ఎంతో సహాయపడతాయి. కొన్ని పెంపుడు జంతువులు: ఆవు, కుక్క, పిల్లి."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "ఏ జంతువు మీకిష్టం?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

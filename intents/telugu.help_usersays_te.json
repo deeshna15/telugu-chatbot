@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7c140c2e-3269-465e-9787-ae22ca901134",
+    "data": [
+      {
+        "text": "what can i learn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "7e1f727f-844c-4e51-bdc6-119f2dcdb678",
+    "data": [
+      {
+        "text": "what can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "824f3ac3-bdc9-4547-af9d-d4c209722a38",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  },
+  {
+    "id": "244a99a9-585b-4173-86a4-8df9b15caed2",
+    "data": [
+      {
+        "text": "సహాయం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "te",
+    "updated": 0
+  }
+]

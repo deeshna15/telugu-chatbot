@@ -1,0 +1,56 @@
+{
+  "id": "1ea19d5b-adff-4be9-9af7-d216779ddeed",
+  "name": "telugu.colors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "తెలుగులో కొన్ని రంగుల పేర్లు ఇక్కడ ఉన్నాయి: ఎరుపు (red), నీలం (blue), పసుపు (yellow), ఆకుపచ్చ (green).",
+            "కొన్ని ఇతర రంగులు: నలుపు (black), తెలుపు (white), గులాబీ (pink), ఊదా (purple)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మీరు ఏ రంగును ఎక్కువగా ఇష్టపడతారు?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "రంగులు మన ప్రపంచాన్ని అందంగా చేస్తాయి. కొన్ని రంగులు: కాషాయం (saffron), బూడిద (gray), గోధుమ (brown)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

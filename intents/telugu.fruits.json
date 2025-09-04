@@ -1,0 +1,95 @@
+{
+  "id": "76d61ae7-e9b8-432b-9e39-b08b56d4031b",
+  "name": "telugu.fruits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "తెలుగులో కొన్ని పండ్ల పేర్లు"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మామిడి (mango)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "అరటి (banana)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "ఆపిల్ (apple)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "కొన్ని పండ్ల పేర్లు ఇక్కడ ఉన్నాయి: ద్రాక్ష (grapes), జామ (guava), దానిమ్మ (pomegranate), కర్బూజ (muskmelon)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "పండ్లు తినడం ఆరోగ్యానికి మంచిది. కొన్ని ముఖ్యమైన పండ్లు: బొప్పాయి (papaya), పుచ్చకాయ (watermelon), అనాస (pineapple)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "మరిన్ని పండ్ల గురించి తెలుసుకోవాలనుకుంటున్నారా?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

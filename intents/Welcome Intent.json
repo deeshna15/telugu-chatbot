@@ -1,0 +1,35 @@
+{
+  "id": "85138f14-c98d-4047-a80f-922a7650c882",
+  "name": "Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "నమస్కారం! తెలుగు నేర్చుకునే బాట్‌కు స్వాగతం. మీరు సంఖ్యలు లేదా అక్షరాలు నేర్చుకోవాలనుకుంటున్నారా?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
